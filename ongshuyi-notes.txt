@@ -14,7 +14,7 @@ touch [file.extension]
 	creates a new file with name [file.extension]
 
 git init
-	used to create a new git repository
+	used to create a new git repository 
 
 git status
 	tells us the status of our working directory
@@ -47,8 +47,4 @@ git checkout [branch-name]
 
 git merge [branch-name]
 	merges changes on [branch-name] into current branch
-
-git checkout [commit-id]
-	switches to [commit-id]
-	
 	
