@@ -34,6 +34,8 @@ git log --oneline
 git diff
 	shows us what has changed between our working directory and staging area
 
+Branches
+
 git branch
 	gives a list of all branches in the repository
 
